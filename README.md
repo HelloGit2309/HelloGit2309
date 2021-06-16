@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+I am Akash Kumar, a Backend Developer and a Competitive Programmer <br>
+
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=HelloGit2309&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloGit2309&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HelloGit2309&langs_count=5&theme=tokyonight">
+
 ![Profile views](https://gpvc.arturio.dev/HelloGit2309)  
 
 <!--
