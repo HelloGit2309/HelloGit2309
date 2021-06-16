@@ -3,7 +3,7 @@
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=HelloGit2309&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloGit2309&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-![Profile views](https://gpvc.arturio.dev/naruto361)  
+![Profile views](https://gpvc.arturio.dev/HelloGit2309)  
 
 <!--
 **HelloGit2309/HelloGit2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
